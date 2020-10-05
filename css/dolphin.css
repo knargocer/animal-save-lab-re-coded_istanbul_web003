@@ -18,7 +18,7 @@ html {
   right: 0;
 }
 
-@media screen and (max-wid:1196px){
+@media screen and (max-wid:1090px min-wid){
   #dolphin{
   
   }
