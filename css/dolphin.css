@@ -18,12 +18,12 @@ html {
   right: 0;
 }
 
-@media screen and (max-width:1090px){
+@media only  screen min-width:642px) and (max-width:1090px) and {
   #dolphin{
     transform:rotate(90deg);
   }
 }
-@media screen and (min-width:642px){
+@media screen and ({
   #dolphin{
     transform:rotate(-90deg);
   }
