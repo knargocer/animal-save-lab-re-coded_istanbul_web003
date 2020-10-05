@@ -7,9 +7,9 @@ html {
   top: 50px;
   right: 0;
 }
-@media screen{
+@media screen and (ma {
   #ostrich{
-    top:800px;
+    top:-50px;
   }
 }
 /* Write your solution here */
