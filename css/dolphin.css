@@ -20,12 +20,12 @@ html {
 
 @media screen and (max-width:1090px){
   #dolphin{
-    transform:rotate();
+    transform:rotate(80deg);
   }
 }
 @media screen and (min-width:642px){
   #dolphin{
-    transform:rotate();
+    transform:rotate(80deg);
   }
 }
 /* Write your solution here */
