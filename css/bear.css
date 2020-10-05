@@ -8,7 +8,7 @@ html {
   right: 0;
 }
 
-@media screen and (max-wid:1196px){
+@media screen and (max-width:1196px){
   #bear{
     left:800px;
   }
