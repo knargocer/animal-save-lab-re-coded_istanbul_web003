@@ -7,12 +7,9 @@ html {
   top: 550px;
   right: 120px;
 }
-@media screen and (max-width:1170px){
+@media screen and (max-width:1170px)and (min-width :406px){
  
 }
 
-@media screen and (min-width:406px){
- 
-}
 /* Write your solution here */
 
